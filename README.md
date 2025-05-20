@@ -1,10 +1,10 @@
 # IoT25-HW05
 IoT ESP32 assignment 5
 ---
-![output image](arduino screen.png)
+![output image](arduinoscreen.png)
 arduino ide upload screen
 ---
-![output image](serial monitor output.png)
+![output image](serialmonitoroutput.png)
 serial monitor output
 ---
 ![output image](client_server_connected.png)
